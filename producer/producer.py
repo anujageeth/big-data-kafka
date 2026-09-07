@@ -30,7 +30,6 @@ import io
 import os
 import random
 import time
-import uuid
 
 import fastavro
 from confluent_kafka import Producer
